@@ -1,0 +1,160 @@
+Task : Session 1
+Solve these questions own your own and try to test yourself what you have learned in the session.
+
+
+Q1 :- Print the given strings as per stated format.
+Given strings:
+"Data" "Science" "Mentorship" "Program" 
+"By" "CampusX"
+Output:
+Data-Science-Mentorship-Program-started-By-CampusX
+Concept- [Seperator and End]
+
+Q2:- Write a program that will convert celsius value to fahrenheit.
+
+Q3:- Take 2 numbers as input from the user.Write a program to swap the numbers without using any special python syntax.
+
+Q4:- Write a program to find the euclidean distance between two coordinates.Take both the coordinates from the user as input.
+
+Q5:- Write a program to find the simple interest when the value of principle,rate of interest and time period is provided by the user.
+
+Q6:- Write a program that will tell the number of dogs and chicken are there when the user will provide the value of total heads and legs.
+For example: Input: heads -> 4 legs -> 12
+Output: dogs -> 2 chicken -> 2
+
+Q7:- Write a program to find the sum of squares of first n natural numbers where n will be provided by the user.
+
+Q8:- Given the first 2 terms of an Arithmetic Series.Find the Nth term of the series. Assume all inputs are provided by the user.
+
+Q9:- Given 2 fractions, find the sum of those 2 fractions.Take the numerator and denominator values of the fractions from the user.
+
+Q10:- Given the height, width and breadth of a milk tank, you have to find out how many glasses of milk can be obtained? Assume all the inputs are provided by the user.
+Input:
+Dimensions of the milk tank
+H = 20cm, L = 20cm, B = 20cm
+Dimensions of the glass
+h = 3cm, r = 1cm
+
+===================================================================================================
+
+
+
+
+Problem 1: 
+Write a program that will give you in hand monthly salary after deduction on CTC - HRA(10%), DA(5%), PF(3%) and taxes deduction as below:
+Salary(Lakhs) : Tax(%)
+Below 5 : 0%
+5-10 : 10%
+10-20 : 20%
+aboove 20 : 30%
+
+Problem 2: Write a program that take a user input of three angles and will find out whether it can form a triangle or not.
+
+Problem 3: Write a program that will take user input of cost price and selling price and determines whether its a loss or a profit.
+
+Problem 4: Write a menu-driven program -
+cm to ft
+km to miles
+USD to INR
+exit
+
+
+Problem 5 :
+Exercise 12: Display Fibonacci series up to 10 terms.
+Note: The Fibonacci Sequence is a series of numbers. The next number is found by adding up the two numbers before it. The first two numbers are 0 and 1. For example, 0, 1, 1, 2, 3, 5, 8, 13, 21. The next number in this series above is 13+21 = 34
+
+Problem 6 - 
+Find the factorial of a given number.
+Write a program to use the loop to find the factorial of a given number.
+The factorial (symbol: !) means to multiply all whole numbers from the chosen number down to 1.
+For example: calculate the factorial of 5
+5! = 5 × 4 × 3 × 2 × 1 = 120
+Output:
+120
+
+Problem 7 - Reverse a given integer number.
+Example:
+Input:
+76542
+Output:
+24567
+
+Problem 8: 
+Take a user input as integer N. Find out the sum from 1 to N. If any number if divisible by 5, then skip that number. 
+And if the sum is greater than 300, don't need to calculate the sum further more. Print the final result. And don't use for loop to solve this problem.
+Example 1:
+Input:
+30
+Output:
+276
+
+Problem 9: 
+Write a program that keeps on accepting a number from the user until the user enters Zero. Display the sum and average of all the numbers.
+
+Problem 9: 
+Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included). 
+The numbers obtained should be printed in a comma-separated sequence on a single line.
+
+Problem 10: 
+Write a program, which will find all such numbers between 1000 and 3000 (both included) such that each digit of the number is an even number. 
+The numbers obtained should be printed in a space-separated sequence on a single line.
+
+Problem 11: 
+A robot moves in a plane starting from the original point (0,0). The robot can move toward UP, DOWN, LEFT and RIGHT with a given steps.
+The trace of robot movement is shown as the following:
+
+UP 5
+DOWN 3
+LEFT 3
+RIGHT 2
+!
+The numbers after the direction are steps.
+! means robot stop there.
+Please write a program to compute the distance from current position after a sequence of movement and original point.
+If the distance is a float, then just print the nearest integer.
+Example:
+Input:
+UP 5
+DOWN 3
+LEFT 3
+RIGHT 2
+!
+Output:
+2
+
+Problem 12:
+Write a program to print whether a given number is a prime number or not
+
+Problem 13:
+Print all the Armstrong numbers in a given range.
+Range will be provided by the user
+Armstrong number is a number that is equal to the sum of cubes of its digits. For example 0, 1, 153, 370, 371 and 407 are the Armstrong numbers.
+
+Problem 14:
+Calculate the angle between the hour hand and minute hand.
+Note: There can be two angles between hands; we need to print a minimum of two. 
+Also, we need to print the floor of the final result angle. For example, if the final angle is 10.61, we need to print 10.
+Input:
+H = 9 , M = 0
+Output:
+90
+Explanation:
+The minimum angle between hour and minute hand when the time is 9 is 90 degress.
+
+
+Problem 15:
+Given two rectangles, find if the given two rectangles overlap or not. 
+A rectangle is denoted by providing the x and y coordinates of two points: the left top corner and the right bottom corner of the rectangle.
+Two rectangles sharing a side are considered overlapping. 
+(L1 and R1 are the extreme points of the first rectangle and L2 and R2 are the extreme points of the second rectangle).
+Note: It may be assumed that the rectangles are parallel to the coordinate axis.
+
+
+
+
+
+
+
+
+
+
