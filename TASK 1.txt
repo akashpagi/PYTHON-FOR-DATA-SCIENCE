@@ -38,7 +38,7 @@ h = 3cm, r = 1cm
 ===================================================================================================
 
 
-
+TASK 2 : Session 2
 
 Problem 1: 
 Write a program that will give you in hand monthly salary after deduction on CTC - HRA(10%), DA(5%), PF(3%) and taxes deduction as below:
@@ -58,10 +58,10 @@ km to miles
 USD to INR
 exit
 
-
 Problem 5 :
 Exercise 12: Display Fibonacci series up to 10 terms.
-Note: The Fibonacci Sequence is a series of numbers. The next number is found by adding up the two numbers before it. The first two numbers are 0 and 1. For example, 0, 1, 1, 2, 3, 5, 8, 13, 21. The next number in this series above is 13+21 = 34
+Note: The Fibonacci Sequence is a series of numbers. The next number is found by adding up the two numbers before it. 
+The first two numbers are 0 and 1. For example, 0, 1, 1, 2, 3, 5, 8, 13, 21. The next number in this series above is 13+21 = 34
 
 Problem 6 - 
 Find the factorial of a given number.
@@ -150,11 +150,181 @@ Two rectangles sharing a side are considered overlapping.
 Note: It may be assumed that the rectangles are parallel to the coordinate axis.
 
 
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
 
+TASK 3 : Session 3
+
+Problem 1 :
+Print the following pattern. Write a program to use for loop to print the following reverse number pattern.
+5 4 3 2 1 
+4 3 2 1 
+3 2 1 
+2 1 
+1
+
+Problem 2: 
+Print the following pattern.
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+*
+
+Problem 3:
+Write a program to pring the following pattern
+    *
+  * * *
+* * * * *
+
+Problem 4:
+Write a program to print the following pattern
+1
+2 1
+3 2 1
+4 3 2 1
+5 4 3 2 1
+
+Problem 5: 
+Write a Python Program to Find the Sum of the Series till the nth term:
+1 + x^2/2 + x^3/3 + … x^n/n
+n will be provided by the user
 
 
+Problem 6: 
+The natural logarithm can be approximated by the following series.
+temp.jpg[T3 Q3 png]
+If x is input through the keyboard, write a program to calculate the sum of the first seven terms of this series.
 
+Problem 7 :
+Find the sum of the series upto n terms.
+Write a program to calculate the sum of series up to n term. For example, if n =5 the series will become 2 + 22 + 222 + 2222 + 22222 = 24690. 
+Take the user input and then calculate. And the output style should match which is given in the example.
 
+Example 1:
+Input:
+5
+Output:
+2+22+222+2222+22222
+Sum of above series is: 24690
+
+Problem 8: 
+Write a program to print all the unique combinations of 1,2,3 and 4
+Output:
+1 2 3 4
+1 2 4 3
+1 3 2 4
+1 3 4 2
+1 4 2 3
+1 4 3 2
+2 1 3 4
+2 1 4 3
+2 3 1 4
+2 3 4 1
+2 4 1 3
+.
+.
+and so on
+
+Problem 9: 
+Write a program that will take a decimal number as input and prints out the binary equivalent of the number
+
+Problem 10: 
+Write a program that will take 2 numbers as input and prints the LCM and HCF of those 2 numbers
+
+Problem 11:
+Create Short Form from initial character
+Given a string create short form ofthe string from Initial character. Short form should be capitalised.
+
+Example:
+
+Input:
+Data science mentorship program
+Output:
+DSMP
+
+Problem 12: 
+Append second string in the middle of first string
+Input:
+campusx
+data
+Output:
+camdatapusx
+
+Problem 13:
+Given string contains a combination of the lower and upper case letters. 
+Write a program to arrange the characters of a string so that all lowercase letters should come first.
+Given:
+str1 = PyNaTive
+Expected Output:
+yaivePNT
+
+Problem 14:
+Take a alphanumeric string input and print the sum and average of the digits that appear in the string, ignoring all other characters.
+Input:
+hel123O4every093
+Output:
+Sum: 22
+Avg: 2.75
+
+Problem 15: 
+Removal of all characters from a string except integers
+Given:
+str1 = 'I am 25 years and 10 months old'
+Expected Output:
+2510
+
+Problem 16: 
+Check whether the string is Symmetrical.
+Statement: Given a string. the task is to check if the string is symmetrical or not. 
+A string is said to be symmetrical if both the halves of the string are the same.
+Example 1:
+Input
+khokho
+Output
+The entered string is symmetrical
+
+Problem 17: 
+Reverse words in a given String
+Statement: We are given a string and we need to reverse words of a given string.
+Example 1:
+Input:
+geeks quiz practice code
+Output:
+code practice quiz geeks
+Example 2:
+Input:
+my name is laxmi
+Output:
+laxmi is name my
+
+Problem 18: Find uncommon words from two Strings.
+Statement: Given two sentences as strings A and B. The task is to return a list of all uncommon words. 
+A word is uncommon if it appears exactly once in any one of the sentences, and does not appear in the other sentence. 
+Note: A sentence is a string of space-separated words. Each word consists only of lowercase letters.
+Example 1:
+Input:
+A = "apple banana mango" 
+B = "banana fruits mango"
+Output:
+['apple', 'fruits']
+
+Problem 19: 
+Word location in String.
+Statement: Find a location of a word in a given sentence.
+Example 1:
+Input:
+Sentence: We can learn data science through campusx mentorship program.
+word: campusx
+Output:
+Location of the word is 7.
+Note- Don't use index/find functions
+
+Problem 20: 
+Write a program that can remove all the duplicate characters from a string. User will provide the input.
 
 
