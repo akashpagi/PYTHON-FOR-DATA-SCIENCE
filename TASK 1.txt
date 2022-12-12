@@ -28,7 +28,8 @@ Q8:- Given the first 2 terms of an Arithmetic Series.Find the Nth term of the se
 
 Q9:- Given 2 fractions, find the sum of those 2 fractions.Take the numerator and denominator values of the fractions from the user.
 
-Q10:- Given the height, width and breadth of a milk tank, you have to find out how many glasses of milk can be obtained? Assume all the inputs are provided by the user.
+Q10:- Given the height, width and breadth of a milk tank, you have to find out how many glasses of milk can be obtained? 
+Assume all the inputs are provided by the user.
 Input:
 Dimensions of the milk tank
 H = 20cm, L = 20cm, B = 20cm
